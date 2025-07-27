@@ -78,7 +78,7 @@ The goal of this project is to analyze how sales and profit change over time and
 
 ## 🔗 Project Link
 
-👉 [View Project Notebook](https://github.com/AvinashKotavenuka/Superstore-Sales-Trend-Analysis-using-Pandas-Matplotlib/blob/main/Superstore-Sales-Trend-Analysis.ipynb)
+👉 [View Project Notebook](https://github.com/AvinashKotavenuka/Superstor-Sales-Trend-Analysis.ipynb/blob/main/Superstor-Sales-Trend-Analysis.ipynb)
 
 
 ---
